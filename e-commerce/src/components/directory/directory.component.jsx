@@ -13,7 +13,7 @@ class Directory extends React.Component {
                 id: 1,
                 linkUrl: 'bonsai'
             },{
-                title: 'potted flowers',
+                title: 'bouquets',
                 imageUrl: 'https://images.unsplash.com/photo-1522790478022-8eb1742bf506?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80',
                 id: 2,
                 linkUrl: ''
